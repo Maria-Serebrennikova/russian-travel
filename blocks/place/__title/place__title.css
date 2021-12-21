@@ -14,3 +14,12 @@ grid-row: 1;
         line-height: 1.1;
  }
 }
+@media screen and (max-width: 767px) {
+    .place__title{
+    font-size: 32px;
+    line-height: 1.09;
+    grid-column: 1;
+    grid-row: 1;
+    margin: 0 16px;
+        }
+        }

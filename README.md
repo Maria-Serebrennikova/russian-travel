@@ -7,3 +7,4 @@
 4. Организация файлов и общее соблюдение методологии БЭМ.  
 5. Адаптивная верстка.  
 *Ссылка на GitHub Pages:*  
+https://maria-serebrennikova.github.io/russian-travel/

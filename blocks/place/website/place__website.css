@@ -4,3 +4,11 @@
     justify-self: start;
     align-self: end;
 }
+@media screen and (max-width: 767px) {
+    .place__website{
+        grid-column: 1;
+        grid-row: 3;
+        justify-self: start;
+        margin: 0 16px;
+        }
+        }

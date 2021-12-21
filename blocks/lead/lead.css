@@ -13,3 +13,8 @@ margin: 0 48px;
         margin: 0 0 88px;
     }
   }
+  @media screen and (max-width: 767px) {
+    .lead{
+        margin: 0 2px 64px;
+    }
+  }
