@@ -6,8 +6,11 @@
     line-height: 1.12;
     color: #FFFFFF;
     text-decoration: none;
+    transition: opacity .5s;
 }
-    
+.footer__link:hover{
+    opacity: 0.8;
+}
 
 .footer__link:last-child{
     margin: 0;
