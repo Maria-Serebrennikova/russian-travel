@@ -1,5 +1,9 @@
 .lead__image{
     width: 928px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-sizing: border-box;
   }
 @media screen and (min-width: 1279px) {
     .lead__image{
@@ -14,6 +18,6 @@
   }
   @media screen and (max-width: 767px) {
     .lead__image{
-    width: 320px;
+    width: 100%;
         }
   }
